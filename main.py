@@ -5,4 +5,4 @@ from time import time, sleep
 
 
 if __name__ == '__main__':
-    pprint( UserHelper.generate_users(125) )
+    pprint( UserHelper.generate_users(125) ) # BAD SOLUTION!
